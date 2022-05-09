@@ -1,4 +1,4 @@
-# Google's ML Kit Flutter Plugin
+# Google's ML Kit Flutter Plugin (QR Only)
 
 [![Pub Version](https://img.shields.io/pub/v/google_ml_kit)](https://pub.dev/packages/google_ml_kit)
 
